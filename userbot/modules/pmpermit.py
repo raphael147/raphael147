@@ -20,7 +20,7 @@ UNAPPROVED_MSG = (
     "`Hey, this is security service.`\n"
     
     "`Don't spam.`\n"
-    "`If you spam, you will got block and report automatically.`\n\n"
+    "`If you spam, you will get block and report automatically.`\n\n"
     "`*This is an automated message*`\n")
 # =================================================================
 
